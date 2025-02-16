@@ -29,7 +29,7 @@ This dataset helps in:
 
 ### How to Use This Dataset
 
-1.Perform Exploratory Data Analysis (EDA) to understand trends.
+1- Perform Exploratory Data Analysis (EDA) to understand trends.
 2.Apply Feature Engineering to select the most relevant variables.
 3.Train machine learning models such as Random Forest Regressor.
 4.Optimize performance using hyperparameter tuning.
