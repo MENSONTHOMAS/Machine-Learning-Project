@@ -29,8 +29,8 @@ This dataset helps in:
 
 ### How to Use This Dataset
 
-- Perform Exploratory Data Analysis (EDA) to understand trends.
-- Apply Feature Engineering to select the most relevant variables.
-- Train machine learning models such as Random Forest Regressor.
-- Optimize performance using hyperparameter tuning.
-- Deploy the model for real-world price predictions.
+- Perform **Exploratory Data Analysis (EDA)** to understand trends.
+- Apply **Feature Engineering** to select the most relevant variables.
+- Train machine learning models such as **Random Forest Regressor**.
+- Optimize performance using **hyperparameter** tuning.
+- Deploy the model for **real-world price predictions**.
